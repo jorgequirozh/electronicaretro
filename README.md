@@ -1,6 +1,6 @@
 ## Electónica Retro.cl
 ### Sistema de catálogo online con carrito de compras realizado en CodeIgniter
-Tienda Electrónica Retro
+Tienda [Electrónica Retro (Demo)](https://www.electronicaretro.cl)
 
 **Tareas**:
 * [x] Cambios visuales (CSS)
